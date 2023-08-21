@@ -6,7 +6,9 @@ Welcome to the **Analysis Using Python Libraries** repository! This repository c
 
 Explore the various analysis projects in this repository:
 
-*(Projects to be added)*
+- [NPS Analysis](https://github.com/AdityaTiwari2102/data-exploration/blob/main/nps-analysis/NPS_analysis.ipynb) -> Analyzing customer satisfaction using Net Promoter Score (NPS) data. This project demonstrates data preprocessing, and insights extraction using NumPy library.
+
+*(More projects to be added)*
 
 Feel free to dive into each project's directory to access the dataset and the Jupyter Notebook for the analysis.
 
